@@ -1,0 +1,60 @@
+----BREAKPOINTS
+AFTER THE CERTAIN BREAKPOINT STYLE WILL BEHAVE IN CERATIN WAY
+
+EX: xl, lg, md, sm, etc...
+
+----GRID
+COLUMN ARE INSERTED IN ROW FOR GRID SYSTEM
+A ROW CONSIST OF 12 UNITS  AND ALSO SPECIFC VALUE
+
+EX: col-1, col-6 etc...
+
+WE CAN APPLY SPACING USING BREAKPOINT(CONDITIONAL)
+EX: col-xl-1, col-lg-8 col-md-6 etc...
+
+----ALIGNMENT
+ALIGN-SELF FOR COLUMN
+EX: align-self-start, align-self-end, etc...
+
+
+ALIGN-ITEMSF, JUSTIFY-CONTENT FOR ROW
+
+verticle alignment
+EX: align-item-start, align-item-end 
+
+horigontal alignment
+EX: justify-content-start, justify-content-end 
+
+----GUTTERS :USED FOR GIVING PADDING BETWEEN COLUM CONTENTS
+
+EX: g-3
+
+along x-axix
+EX: gx-5, gx-3
+
+along y-axis
+EX: gy-3, gy-5
+
+MARGIN:
+
+EX: m-3
+
+along x-axix
+EX: mx-3 
+
+along y-axis
+EX: my-3
+
+PADDING
+
+EX: p-3
+
+along x-axix
+EX: px-3 
+
+along y-axis
+EX: py-3
+
+
+
+

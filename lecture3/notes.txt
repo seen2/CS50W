@@ -1,0 +1,6 @@
+    1  pip3 install Django
+    2  pip install --upgrade pip
+    3  django-admin startproject lecture3 --->creates django project
+    4  cd lecture3/
+    5  python manage.py runserver ---run django server
+    6  python manage.py startapp hello ---> create application
